@@ -1,6 +1,6 @@
 # Flutter-Crypto-Wallet-App
 
-A sample app to showcase Crypto Wallet App UI demo in flutter.
+A sample app to showcase Crypto Wallet App UI in flutter.
 
 
 ## Screenshots
